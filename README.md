@@ -27,10 +27,10 @@ manager.start("src/plugins"); // Full path of directory that includes plugin fil
 module.exports = {
     name: "example-plugin",
 	run(client) {
-        const channel = client.channels.cache.get("0000000000000000");
         setInterval(() => {
+            const channel = client.channels.cache.get("830755293809475584");
             channel.send("This message sended via " + this.name + " plugin!");
-        }, 60 * 1000)
+        }, 10 * 1000)
 	},
 };
 ```
