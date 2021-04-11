@@ -18,7 +18,7 @@ const PluginManager = require('plugincord');
 
 const manager = new PluginManager(client);
 
-manager.start("./src/plugins"); // Full path of directory that includes plugin files.
+manager.start("src/plugins"); // Full path of directory that includes plugin files.
 ```
 
 ### Plugin Example
