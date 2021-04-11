@@ -1,0 +1,18 @@
+{
+  "name": "plugincord",
+  "version": "1.0.0",
+  "description": "Plugin Manager for Discord Bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "plugin"
+  ],
+  "author": "mertushka",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
