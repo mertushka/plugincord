@@ -24,8 +24,6 @@ manager.start("./src/plugins"); // Full path of directory that includes plugin f
 ### Plugin Example
 
 ```js
-const fs = require('fs');
-
 module.exports = {
     name: "example-plugin",
 	run(client) {
