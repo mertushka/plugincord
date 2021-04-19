@@ -2,7 +2,6 @@
 ---
 A module that manages plugins that will easily add new features to your Discord Bot.
 
-[Discord](https://discord.gg/cW2ntzQ3fb).
 ---
 
 ## Installation
@@ -34,3 +33,11 @@ module.exports = {
 	},
 };
 ```
+
+### Example Project
+
+[Click here!](https://github.com/mertushka/discord-altyapi)
+
+### Discord
+
+[Click here!](https://discord.gg/cW2ntzQ3fb)

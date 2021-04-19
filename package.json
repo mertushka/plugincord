@@ -1,6 +1,6 @@
 {
   "name": "plugincord",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Plugin Manager for Discord Bots.",
   "main": "index.js",
   "scripts": {
